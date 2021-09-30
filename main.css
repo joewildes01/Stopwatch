@@ -1,0 +1,39 @@
+body {
+  font-family: subway-stick;
+  background: black;
+  color: lightgreen;
+}
+p {
+  text-align: center;
+  font-size: 100px
+}
+h1 {
+  text-align: center;
+}
+.buttons{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+button{
+  width:150px;
+  height:60px;
+  margin:0 auto;
+  display:block;
+  margin-top:10px;
+  background:black;
+  border-color: lightgreen;
+  border-radius: 12px;
+  color: lightgreen;
+  font-size: 20px;
+  font-family: subway-stick;
+}
+@font-face {
+  font-family: digital7;
+  src: url(digital-7/digital-7.ttf);
+}
+@font-face {
+  font-family: subway-stick;
+  src: url(subway-ticker/SUBWT___.ttf);
+
+}
