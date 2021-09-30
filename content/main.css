@@ -27,6 +27,13 @@ button{
   color: lightgreen;
   font-size: 20px;
   font-family: subway-stick;
+  transition: 0.4s;
+  outline: none;
+}
+button:hover{
+  background:lightgreen;
+  color:black;
+  outline:none;
 }
 @font-face {
   font-family: digital7;
